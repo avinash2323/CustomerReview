@@ -1,0 +1,4 @@
+curseword1
+curseword2
+curseword3
+curseword4
